@@ -5,8 +5,9 @@ However, despite the model can be trained to classify each different type of cha
 
 Training images were taken from the [ICPR2022 CHARTINFO UB PMC competition dataset](https://www.kaggle.com/datasets/pranithchowdary/icpr-2022?resource=download-directory), the [PACS](https://paperswithcode.com/dataset/pacs) and [DomainNet](https://paperswithcode.com/dataset/domainnet) datasets.
 
-
-## How to use
 All the notebooks in this repository were used for training, except [this one](./2.1%20chart_multiclassification_training.ipynb), which is still under experimentation.
 
 The main notebook where training was done is: [2. chart_detection_training](./2.%20chart_detection_training.ipynb).
+
+## How to use
+The trained model is available on HuggingFace at [this link](https://huggingface.co/stefanodangelo/chartdet). 
